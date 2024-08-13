@@ -34,7 +34,7 @@ Signup and get the Agora Credentials from the agora official website
 Create a folder and open terminal and install this project by
 command 
 ```bash
-https://github.com/Aritra-CyberPro/VideoCalling-App.git
+git clone https://github.com/Aritra-CyberPro/VideoCalling-App.git
 ```
 In project directory Create a virtual environment(say env)
 
